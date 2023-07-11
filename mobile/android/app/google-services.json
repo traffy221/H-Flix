@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16499338794",
+    "project_id": "h-flix",
+    "storage_bucket": "h-flix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16499338794:android:f703d327d83a50e5e6dd53",
+        "android_client_info": {
+          "package_name": "com.example.front"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16499338794-c2uf55pp0tl6igkfu49nqarfo01s3asu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_CeXkSvA3Oks00TWofaNJHhMAFmO_I5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16499338794-c2uf55pp0tl6igkfu49nqarfo01s3asu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
